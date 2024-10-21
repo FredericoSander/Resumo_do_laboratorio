@@ -1,4 +1,4 @@
-# Resumo_do_laboratorio
+# Resumo do laboratorio
 Este repositório contém uma resumo da atividade do laboratório.
 
 Acesso a AZURE
