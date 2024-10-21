@@ -8,11 +8,9 @@ O acesso ao ambiente da Azure.
  - Após a criação da conta o usuário deverá realizar o login na plataforma utilizando seu usuário e senha.
  - Dentro do portal, os usuários terão acesso aos diversos serviço fornecidos pela AZURE.
 
-
 <div aling="center">
- <img src="https://github.com/FredericoSander/Power-BI/blob/main/Modelando%20um%20Dashboard%20de%20E-comerce%20com%20Power%20BI%20Utilizando%20DAX/Imagens/Finacial%20Sample.png">
+ <img src="https://github.com/FredericoSander/Resumo_do_laboratorio/blob/main/Imagens/Pagina%20inicial.png">
 </div>
-
 
 - Usuários que estão utilizando os servidos por meio dos crédito fornecidos pela Microsoft AZURE, poderão sofrer restrições de alguns serviços específicos, que, podem não estar disponíveis em algumas regiões na conta gratuíta, conforme política dae utilização da Microsoft AZURE.
 
@@ -38,7 +36,7 @@ Na guia de direitos e assinaturas, encontra-se disponiveis as seguintes opções
     Nesta opção os usuários teram acesso, configuração de encerramento de sessão por tempo de ociosidade e configuração de notificações.
 
 <div aling="center">
- <img src="https://github.com/FredericoSander/Power-BI/blob/main/Modelando%20um%20Dashboard%20de%20E-comerce%20com%20Power%20BI%20Utilizando%20DAX/Imagens/Finacial%20Sample.png">
+ <img src="https://github.com/FredericoSander/Resumo_do_laboratorio/blob/main/Imagens/Configura%C3%A7%C3%B5es.png">
 </div>
 
 ## Painel Principal
@@ -46,7 +44,7 @@ Na guia de direitos e assinaturas, encontra-se disponiveis as seguintes opções
 Na barra lateral do painel principal, existe uma relação de recursos disponíveis. Ao clicar na opção **Todos os Serviços**, será aberto o painel **Todos sos Serviço | Tudo**, no qual estão dispostos todos os seriços da plataforma. O painel **Todos os Serviços | Tudo** ainda conta com uma barra lateral na qual os serviços estão disposto por categoria, facilitando a localização dos mesmos.
 
 <div aling="center">
- <img src="https://github.com/FredericoSander/Power-BI/blob/main/Modelando%20um%20Dashboard%20de%20E-comerce%20com%20Power%20BI%20Utilizando%20DAX/Imagens/Finacial%20Sample.png">
+ <img src="https://github.com/FredericoSander/Resumo_do_laboratorio/blob/main/Imagens/Computa%C3%A7%C3%A3o.png">
 </div>
 
 Tomemos por exemplo o seriço de computação:
